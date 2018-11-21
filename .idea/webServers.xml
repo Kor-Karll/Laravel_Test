@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="12636aa2-a89d-42f8-8cd1-dec4ede05d0a" name="라라벨테스트(HP서버)" url="http://192.168.0.24">
+        <fileTransfer host="192.168.0.24" port="8822" rootFolder="/home/laravel_test/Laravel" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="8822" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
